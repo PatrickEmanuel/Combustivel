@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+}
+body{
+    background: lightgray;
+    text-align: center;
+}
+header img{
+    max-width: 80%;
+}
+main img{
+    width: 450px;
+
+}
+footer{
+    font-family: 'Times New Roman', Times, serif;
+    background: rgba(78, 77, 77, 0.5);
+    color: white;
+    font-size: 0.8em;
+    padding: 30px;
+    margin-top: 30px;
+    
+    
+}
+span {
+    color: red;
+}
+.tx{
+    width: 100px;
+    height: 25px;
+    border-radius: 15px;
+    text-align: center;
+    margin-top: 10px;
+}
+.btn{
+    width: 104px;
+    height: 26px;
+    border-radius: 15px;
+    text-align: center;
+    margin-top: 10px;
+}
